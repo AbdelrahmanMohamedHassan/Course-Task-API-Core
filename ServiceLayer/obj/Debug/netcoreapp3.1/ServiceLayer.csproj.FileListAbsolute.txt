@@ -1,0 +1,15 @@
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb

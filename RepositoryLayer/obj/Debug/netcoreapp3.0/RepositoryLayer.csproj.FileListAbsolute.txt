@@ -1,0 +1,13 @@
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\RepositoryLayer.deps.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\RepositoryLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\RepositoryLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\DomainLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\DomainLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\RepositoryLayer.runtimeconfig.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.0\RepositoryLayer.runtimeconfig.dev.json

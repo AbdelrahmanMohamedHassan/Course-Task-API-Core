@@ -1,0 +1,16 @@
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\abdelrahman.hassan\source\repos\CourseTask.API\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
